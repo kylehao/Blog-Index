@@ -1,24 +1,24 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "墙裂推荐",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
+        title: "云空间",
+        url: "https://blog.yyymm.com/",
         icon: "",
         color: "#0171CD",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "博客",
+        description: "我的博客",
+        url: "https://blog1.hhhnn.com/",
         icon: "",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "诗词",
+        description: "古典诗词欣赏",
+        url: "https://111.gs/book/",
         icon: "",
       },
     ],
